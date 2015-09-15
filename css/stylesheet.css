@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'Slush Icons';
+    src: url('../font/slush-icons-webfont.eot');
+    src: url('../font/slush-icons-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/slush-icons-webfont.woff2') format('woff2'),
+         url('../font/slush-icons-webfont.woff') format('woff'),
+         url('../font/slush-icons-webfont.ttf') format('truetype'),
+         url('../font/slush-icons-webfont.svg#your_iconsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.slush-icons:before {
+    color: #777;
+    font-family: 'Slush Icons';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased
+}
+
+.manufacturing_tech_materials:before {
+    content: "\e001";
+}
+.industrial_internet_iot:before {
+    content: "\e002";
+}
+.health_wellbeing:before {
+    content: "\e003";
+}
+.gaming:before {
+    content: "\e004";
+}
+.food_nutrition:before {
+    content: "\e005";
+}
+.financial_payment_services:before {
+    content: "\e006";
+}
+.analytics_big_data_ai:before {
+    content: "\e007";
+}
+.energy:before {
+    content: "\e008";
+}
+.education:before {
+    content: "\e009";
+}
+.e-commerce_online_marketplaces:before {
+    content: "\e010";
+}
+.cyber_security:before {
+    content: "\e011";
+}
+.consumer_electronics:before {
+    content: "\e012";
+}
+.communications_media:before {
+    content: "\e013";
+}
+.music_entertainment:before {
+    content: "\e014";
+}
+.med_tech_pharma:before {
+    content: "\e015";
+}
+.transport_automotive:before {
+    content: "\e016";
+}
+.bitcoin_cryptocurrencies:before {
+    content: "\e017";
+}
+.robotics:before {
+    content: "\e018";
+}
+.mobile:before {
+    content: "\e019";
+}
+.cleantech:before {
+    content: "\e020";
+}
+.social_media:before {
+    content: "\e021";
+}
+.social_entrepreneurship_impact:before {
+    content: "\e022";
+}
+.space_technology:before {
+    content: "\e023";
+}
+.biotechnology:before {
+    content: "\e024";
+}
+.enterprise_software:before {
+    content: "\e025";
+}
+.virtual_reality:before {
+    content: "\e026";
+}
+.wearable_technology:before {
+    content: "\e027";
+}
