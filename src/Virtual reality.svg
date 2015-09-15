@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12081) - http://www.bohemiancoding.com/sketch -->
+    <title>Virtual reality</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Slushicons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Virtual-reality" sketch:type="MSArtboardGroup">
+            <path d="M357.009067,0 L666.990933,0 C769.792,0 821.179733,0 876.5184,17.4933333 C936.9344,39.4837333 984.516267,87.0656 1006.50667,147.4816 C1024,202.811733 1024,254.216533 1024,357.009067 L1024,666.990933 C1024,769.792 1024,821.179733 1006.50667,876.5184 C984.516267,936.9344 936.9344,984.516267 876.5184,1006.49813 C821.179733,1024 769.792,1024 666.990933,1024 L357.009067,1024 C254.208,1024 202.811733,1024 147.4816,1006.49813 C87.0656,984.516267 39.4837333,936.9344 17.4933333,876.5184 C0,821.179733 0,769.792 0,666.990933 L0,357.009067 C0,254.216533 0,202.811733 17.4933333,147.4816 C39.4837333,87.0656 87.0656,39.4837333 147.4816,17.4933333 C202.811733,0 254.208,0 357.009067,0 L357.009067,0" id="Path" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup"></path>
+            <path d="M516.486484,277.439837 C283.009846,277.439837 83.833876,511.324312 83.833876,511.324312 C83.833876,511.324312 261.008128,746.560163 516.486484,746.560163 C771.96484,746.560163 940.166124,511.324312 940.166124,511.324312 C940.166124,511.324312 749.963122,277.439837 516.486484,277.439837 Z" id="Path-80" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <polygon id="Polygon-1" stroke="#979797" fill="#D8D8D8" sketch:type="MSShapeGroup" points="517.862339 316.629724 686.292242 414.700969 686.292242 610.84346 517.862339 708.914705 349.432437 610.84346 349.432437 414.700969 "></polygon>
+            <polygon id="Polygon-2" fill="#FFFFFF" sketch:type="MSShapeGroup" points="512 443 577.6229 490.677827 552.557182 567.822173 471.442818 567.822173 446.3771 490.677827 "></polygon>
+        </g>
+        <g id="Artboard-28" sketch:type="MSArtboardGroup" transform="translate(-4763.000000, -5196.000000)"></g>
+    </g>
+</svg>
